@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Criadouro Guarnieri</title>
+    </head>
+    <body>
+        <main>
+            <div class="togo">
+                <div class="logo">
+                    <img src="" alt="LogoGuarnieri" />
+                </div>
+                <div class="logo1">
+                    <h1>Criadouro Guarnieri</h1>
+                </div>
+                <nav class="menu">
+                    <ul class="menu">
+                        <li>
+                            <a href="#">Inicio</a>
+                        </li>
+                        <li>
+                            <a href="#">Criações</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </main>
+        <section id="apresentação">
+            <div class="principais">
+                
+            </div>
+        </section>
+    </body>
+</html>
